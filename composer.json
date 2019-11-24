@@ -1,0 +1,21 @@
+{
+    "name": "coffeemugdev/mug-wp",
+    "type": "composer-plugin",
+    "description": "Wordpress helpers.",
+    "keywords": ["composer", "autoload"],
+    "homepage": "https://github.com/funkjedi/composer-include-files",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thu Trinh",
+            "email": "trinh.0703@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
