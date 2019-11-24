@@ -1,6 +1,5 @@
 {
     "name": "coffeemugdev/mug-wp",
-    "type": "composer-plugin",
     "description": "Wordpress helpers.",
     "keywords": ["composer", "autoload"],
     "homepage": "https://github.com/funkjedi/composer-include-files",
